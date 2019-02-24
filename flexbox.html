@@ -10,7 +10,6 @@
             display: flex;
             justify-content: center;
             height: 100vh;
-            flex-wrap: wrap; /* default : nowrap , wrap 사용 시 여러줄로 표시 될 수 있음.*/
         }
 
         .box {
@@ -24,13 +23,18 @@
             color: white;
             font-size: 50px;
         }
+
+        .box:first-child {
+            /* 부모가 아닌 자식에게서 쓸수 있는 속성*/
+            align-self: flex-end;
+        }
     </style>
 </head>
 <body>
     <div class="fater">
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
     </div>
 </body>
 </html>
