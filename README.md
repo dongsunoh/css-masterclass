@@ -13,3 +13,4 @@ Flexbox, Grid, PostCSS, CSSNext
 
 ### CSS Grid
  - [x] CSS Grid Basics ( Row, columns and gaps) 
+ - [x] Auto columns, auto rows ( auto-flow : default is gird-auto-rows)
