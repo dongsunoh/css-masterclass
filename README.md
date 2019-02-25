@@ -8,3 +8,8 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] Flex Direction
  - [x] Flex Wrap
  - [x] Align Self
+
+ * more Flex infomation url : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+### CSS Grid
+ - [x] CSS Grid Basics ( Row, columns and gaps) 
