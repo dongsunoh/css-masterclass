@@ -25,3 +25,22 @@ Flexbox, Grid, PostCSS, CSSNext
  - [ ] Grid Row, Row Start and End
  - [ ] Grid Area
  - [ ] Justify, Align, Place Self
+
+### Using CSS4
+ - [ ] Installing Parcel
+ - [ ] Configuring PostCSS
+ - [ ] Testing
+
+### CSS4 Awesomeness
+ - [ ] :matches , :not
+ - [ ] CSS Variables
+ - [ ] @custom-selector
+ - [ ] @custom-media
+ - [ ] Media Query Ranges
+ - [ ] color-mod, gray(), system-ui
+ - [ ] Nesting Rules
+
+### Conclusions
+ - [ ] CSS Grid Kiss
+ - [ ] Practice Flexbox
+ - [ ] Practice Grid
