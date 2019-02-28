@@ -15,4 +15,4 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] CSS Grid Basics ( Row, columns and gaps) 
  - [x] Auto columns, auto rows ( auto-flow : default is grid-auto-rows)
  - [x] Template Areas
- - [ ] fr unit, repeat
+ - [x] fr unit, repeat
