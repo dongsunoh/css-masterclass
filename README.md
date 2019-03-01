@@ -9,7 +9,7 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] Flex Wrap
  - [x] Align Self
 
- * more Flex infomation url : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ * more Flex information url : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### CSS Grid
  - [x] CSS Grid Basics ( Row, columns and gaps) 
@@ -25,6 +25,8 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] Grid Row, Row Start and End
  - [x] Grid Area
  - [x] Justify, Align, Place Self
+ 
+ * more Grid information url :https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ### Using CSS4
  - [x] Installing Parcel
