@@ -1,0 +1,19 @@
+{
+  "name": "css-masterclass",
+  "version": "1.0.0",
+  "description": "Flexbox, Grid, PostCSS, CSSNext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongsunoh/css-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongsunoh/css-masterclass/issues"
+  },
+  "homepage": "https://github.com/dongsunoh/css-masterclass#readme",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
