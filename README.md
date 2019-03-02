@@ -32,6 +32,9 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] Installing Parcel
  - [x] Configuring PostCSS
  - [x] Testing
+ - [ ] 
+
+ * **Attention use Parcel : The .git name should not be in the folder path. Because Pacel is not working reloading Hot module replacement. (parcel 사용시 주의사항 : 폴더 경로에 .git 이름이 들어가면 자동 새로고침을 하지 않는다.)**
 
 ### CSS4 Awesomeness
  - [x] :matches , :not
