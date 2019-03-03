@@ -42,7 +42,7 @@ Flexbox, Grid, PostCSS, CSSNext
  - [x] @custom-media
  - [x] Media Query Ranges
  - [x] color-mod, gray(), system-ui
- - [ ] Nesting Rules
+ - [x] Nesting Rules
 
  * **public postcss is not support color-mod. if you use the color-mod, you should have install the color-mod.**
    - color-mod install terminal command : npm i postcss-color-mod-function -D
