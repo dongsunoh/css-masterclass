@@ -21,10 +21,17 @@ li:first-child a {
 } */
 
 /* @custom-media --ipad-size (max-width: 850px); */
-@custom-media --ipad-size (450px <= width < 850px);
+/* @custom-media --ipad-size (450px <= width < 850px);
 
 @media (--ipad-size) {
     body{
         background-color: red;
     }
+} */
+
+h1 {
+    /* color: color-mod( #f1c40f alpha(50%)); */
+    /* color: gray(50); */
+    font-family: system-ui;
+
 }
