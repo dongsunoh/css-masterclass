@@ -50,7 +50,7 @@ Flexbox, Grid, PostCSS, CSSNext
    - color-mod install terminal command : npm i postcss-color-mod-function -D
 
 ### Conclusions
- - [ ] CSS Grid Kiss
+ - [x] CSS Grid Kiss
  - [ ] Practice Flexbox
  - [ ] Practice Grid
 
