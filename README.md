@@ -51,8 +51,8 @@ Flexbox, Grid, PostCSS, CSSNext
 
 ### Conclusions
  - [x] CSS Grid Kiss
- - [ ] Practice Flexbox
- - [ ] Practice Grid
+ - [x] Practice Flexbox
+ - [x] Practice Grid
 
 * Flexbox URL : https://flexboxfroggy.com
 * Grid URL : https://cssgridgarden.com
